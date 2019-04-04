@@ -1,6 +1,6 @@
 @Library('jenkins-pipeline-lib@master') _ 
 
-import in.100m.devops.jenkins.Utilities
+import com.example.devops.jenkins.Utilities
 
 def utils = new Utilities(this)
 
