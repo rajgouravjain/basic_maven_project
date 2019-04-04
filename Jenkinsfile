@@ -1,4 +1,4 @@
-@Library('jenkins-pipeline-lib') 
+@Library('jenkins-pipeline-lib@master') _ 
 
 import in.100m.devops.jenkins.Utilities
 
